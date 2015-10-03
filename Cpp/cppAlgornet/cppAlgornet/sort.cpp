@@ -1,5 +1,3 @@
-
-
 namespace Sort {
 	int * algornetBubbleSort(int * list) {
 		int n = sizeof(list);
